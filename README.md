@@ -66,3 +66,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielco7&show_icons=true&locale=en&layout=compact" alt="danielco7" /></p>
 
+![Snake Animation](https://danielco7.github.io/Danielco7/snake.svg)
+
