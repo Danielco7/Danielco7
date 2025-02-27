@@ -72,7 +72,7 @@
 
 ## Snake Animation
 
-![Snake Animation](https://danielco7.github.io/Danielco7/output/snake.svg)
+![Snake Animation](https://danielco7.github.io/Danielco7/snake.svg)
 
 ---
 
