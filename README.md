@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Electrical Engineering**
 
-- 💬 Ask me about **my hobbies! In addition to my passion for learning new things, I love traveling ✈️ to new destinations, hiking in nature 🌲, playing the piano 🎹, caring for plants 🌱, enjoying video games 🎮 and experimenting with cooking 🍳.**
+- 💬 Ask me about **my hobbies! In addition to my passion for learning new things, I love traveling ✈️ to new destinations, hiking in nature 🌲, playing the piano 🎹, caring for plants 🌱, enjoying video games 🎮 and experimenting with cooking 🍳**
 
-- ⚡ Fun fact **I confidently built my kitchen from the ground up, creating a space that perfectly suits my culinary ambitions.**
+- ⚡ Fun fact **I built my kitchen from the ground up, tailoring it to my culinary ambitions. Being quite tall, I customized the space to suit my height and ensure comfort in every detail**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
