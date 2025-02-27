@@ -45,8 +45,6 @@
 </div>
 
 ---
-
-### **🐍 Snake Animation**
 <p align="center">
   <img src="https://raw.githubusercontent.com/danielco7/danielco7/output/snake.svg" alt="Snake animation" />
 </p>
