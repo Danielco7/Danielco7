@@ -37,16 +37,4 @@
 
 ![Snake Animation](https://danielco7.github.io/Danielco7/snake.svg)
 
----
-
-## GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielco7&show_icons=true&count_private=true&hide_title=false&hide=prs&theme=dracula" alt="Daniel's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielco7&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top languages" />
-</p>
-
 
