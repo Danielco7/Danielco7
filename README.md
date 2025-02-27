@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Electrical Engineering**
 
-- 📫 How to reach me **[Danielcohenn9@gmail.com](mailto:Danielcohenn9@gmail.com)**
-
 - ⚡ Fun fact **I confidently built my kitchen from the ground up, creating a space that perfectly suits my culinary ambitions.**
 
 <h3 align="left">Connect with me:</h3>
